@@ -1,0 +1,21 @@
+body{
+    width: 1000px;
+    height: 500px;
+}
+
+header{
+    
+    background-color: pink;
+}
+footer{
+    width: 1000px;
+    height: 40px;
+    background-color: pink;
+    clear: both;
+    position: absolute;
+    text-align: left
+}
+p{
+    float: left;
+    text-align: left;
+}

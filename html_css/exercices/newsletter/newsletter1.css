@@ -1,0 +1,47 @@
+body{
+    width: 798px;
+    height: 798px;
+    margin: auto;
+}
+
+table{
+    border: 1px solid black;
+}
+th{
+    width: 798px;
+    height: 198px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+tbody{
+    border: 1px solid black;
+    width: 798px;
+    height: 198px;
+}
+
+.Espace2{
+    border: 1px solid black;
+    width: 159px;
+    height: 98px;
+}
+.Espace3{
+    border: 1px solid black;
+    width: 159px;
+    height: 98px;
+}
+.Espace4{
+    border: 1px solid black;
+    width: 159px;
+    height: 98px;
+}
+.Espace5{
+    border: 1px solid black;
+    width: 159px;
+    height: 98px;
+}
+.Espace6{
+    border: 1px solid black;
+    width: 159px;
+    height: 98px;
+}

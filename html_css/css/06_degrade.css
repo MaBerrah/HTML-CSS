@@ -1,0 +1,9 @@
+.contenu{
+    background: linear-gradient(to left, #40a497, #6840ad);
+    /*degradé qui démarre avec la première couileur et fini avec la seconde de haut en baspar défaut, mais ici on a ajouté TO LEFT qui effectue le dégradé de gauche à droite*/
+    width: 45em;/*largeur*/
+    height: 45em;/*hauteur*/
+    margin: 0 auto;/*pas de marge (valeur 0) en haut et en bas- la valeur auto laisse le navigateur centrer l'élément*/
+    border-radius: 50%;/*la propriété border raduis permet d'arrondir plus ou moin les angles*/
+ 
+ }

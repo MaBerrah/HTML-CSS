@@ -1,0 +1,21 @@
+body{
+    width:798px;
+    height: 798px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    
+}
+
+section{
+    text-align: center;
+    margin: auto;
+}
+
+footer{
+    text-align: center;
+    bottom:5;
+    width:100%;
+    padding-top:70px;
+    height:60px;
+}

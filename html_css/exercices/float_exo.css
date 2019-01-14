@@ -1,0 +1,36 @@
+body{
+    margin: 0 auto;
+    background-color: white
+}
+div{
+    width: 90%;
+    margin: 0 auto;
+    background-color: white;
+}
+.boite{
+    height: 10em;
+    width: 10em;
+    background-color: #7a43e0;
+    border: 5px black;
+    margin: 2vh;
+    float: left;
+    text-align: center;
+}
+.boite1{
+    height: 10em;
+    width: 10em;
+    background-color: #43e07a;
+    border: 5px black;
+    margin: 2vh;
+    float: left;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+.boite{ 
+    border-radius: 20%
+}
+.boite1{ 
+    border-radius: 20%
+}

@@ -1,0 +1,71 @@
+body{
+    width:3vh;
+    margin: 10px auto;
+    font-family: cursive;
+    border: greenyellow;
+}
+#contenu{
+    border: 2px solid #000;
+}
+header{
+    height: 2vh;
+    background-color:#8E3557;
+    color : #fff;
+    text-align: center;
+    padding-top: 6px;
+}
+.A{    
+        background-color: #4A1A2C;
+        width:400px;
+        height:200px;
+        float: left;
+        
+}
+.B{
+        background-color: #787746;
+        width:400px;
+        height:200px;
+        float: left;
+} 
+.C{    
+        background-color: #E6E2AF;
+        width:400px;
+        height:200px;
+        float: left;
+}
+.D{
+        background-color: #ADD8E6; 
+        width:400px;
+        height:200px;
+        float: left;
+}
+nav{
+    height: 30px;
+    background-color: #4A1A2C;
+    color : #fff;
+    text-align: center;
+    padding-left: 3vh;
+}
+
+footer{
+    height: 5vh;
+    background-color: #4A1A2C;
+    color : #fff;
+    text-align: center;
+    padding-top: 6px; 
+}
+section{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: white solid 10px;
+    width: 800px;
+    height: 500px;
+}
+.little_apple{
+    float: left;
+}
+.bg_page{
+
+}

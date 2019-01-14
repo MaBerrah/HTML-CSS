@@ -1,0 +1,102 @@
+body{
+    margin: 0 auto;
+    background-color: white;
+}
+div{
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+}
+.green{
+    height: 5vh;
+    width: 9vh;
+    padding: 5vh;
+    background-color: green;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    margin: 2vh;
+    border-top-right-radius : 20%;
+    border-bottom-right-radius : 20%;
+    border-bottom-left-radius : 20%;
+    border-top-left-radius : 3%;
+    float: left;
+}
+
+.lightblue{
+    height: 5vh;
+    width: 9vh;
+    padding: 5vh;
+    background-color: cyan;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    margin: 2vh;
+    border-top-left-radius : 20%;
+    border-bottom-right-radius : 20%;
+    float: left;
+}
+
+.lightgreen { 
+    width:5vh;
+    height: 5vh;
+    padding: 5vh;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    margin: 2vh;
+    border-radius : 50%;
+    float: left;
+}
+.lightorange{
+    height: 5vh;
+    width: 9vh;
+    padding: 5vh;
+    background-color: darksalmon;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    margin: 2vh;
+    border-top-right-radius : 20%;
+    border-bottom-left-radius : 20%;
+    float: left;
+    border-bottom-right-radius : 3%;
+    border-top-left-radius : 3%;
+}
+
+.clear{
+    clear: both;
+}
+
+.red{
+    height: 5vh;
+    width: 9vh;
+    padding: 5vh;
+    background-color: red;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    margin: 2vh;
+    border-top-right-radius : 20%;
+    border-bottom-left-radius : 20%;
+    float: left;
+    border-bottom-right-radius : 3%;
+    border-top-left-radius : 3%;
+}
+
+.white{
+    height: 5vh;
+    width: 9vh;
+    padding: 5vh;
+    background-color: white;
+    background-repeat: no-repeat;
+    margin: 2vh;
+    border-top-right-radius : 20%;
+    border-bottom-left-radius : 20%;
+    float: left;
+}
+
+*{
+font-size: 40px;
+}
+
+section div:nth-child(35){
+
+background-color: red;
+}

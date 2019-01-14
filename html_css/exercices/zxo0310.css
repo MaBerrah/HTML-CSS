@@ -1,0 +1,144 @@
+body{
+    background-color: white;
+    width: 800px;
+}
+
+header{
+    background-color: #C8AE81;
+    width : 100%;
+    height:8vh;
+    text-align: center;
+    color : white;
+    line-height: 8vh
+}
+nav{
+    width: 100%;
+    height: 4vh;
+    background-color: #2F4747;
+    text-align: center;
+    color : white;
+    border: #2F4747 3px;
+    line-height: 4vh;
+}
+
+footer{
+    background-color: #B9B9B9;
+    height:8vh;
+    text-align: center;
+    color : white;
+    clear: both;
+    width: 100%;
+    line-height: 8vh;
+}
+
+section {
+    float: left;
+    background-color: #B1EBEC;
+}
+.A{
+    background-color: #F9D7B1;
+    border: white solid 1px;
+    color: white;
+    text-align : center;
+    width: 397.5px;
+    height: 197.5px;
+
+}
+
+.B{
+    background-color:#7794AA;
+    border:1px solid white;
+    color: white;
+    text-align : center;
+    width: 397.5px;
+    height: 197.5px;
+}
+
+.C{
+    background-color:#3E4F5C;
+    border: white solid 1px;
+    color: white;
+    text-align : center;
+    width: 397.5px;
+    height: 197.5px;
+}
+
+.D{
+    background-color: #F9DFAA;
+    border: white solid 1px;
+    color: white;
+    text-align : center;
+    width: 397.5px;
+    height: 197.5px;
+}
+
+section div {
+    width: 196.75px;
+    height: 96.75px;
+    float: left;
+    line-height: 96.75px;
+} 
+
+.PZ2{
+    border: 1px solid white;
+    
+}
+.PZ3{
+    border: 1px solid white;
+    
+}
+.PZ4{
+    border: 1px solid white;
+    
+}
+.PZ5{
+    border: 1px solid white;
+    
+}
+.PZ6{
+    border: 1px solid white;
+    
+}
+.PZ7{
+    border: 1px solid white;
+    
+}
+.PZ8{
+    border: 1px solid white;
+    
+}
+.PZ9{
+    border: 1px solid white;
+    
+}
+.PZ10{
+    border: 1px solid white;
+    
+}
+.PZ11{
+    border: 1px solid white;
+    
+}
+.PZ12{
+    border: 1px solid white;
+    
+}
+.PZ13{
+    border: 1px solid white;
+    
+}
+.PZ14{
+    border: 1px solid white;
+   
+}
+.PZ15{
+    border: 1px solid white;
+    
+}
+.PZ16{
+    border: 1px solid white;
+    
+}
+.PZ1{
+    border: 1px solid white;
+}

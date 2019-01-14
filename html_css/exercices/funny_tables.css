@@ -1,0 +1,28 @@
+body{
+    width: 100%;
+    margin: auto;
+}
+table{width: 100%;
+      border: thin solid #000000;  
+}
+thead, tfoot{
+   background-color: #D0E3FA;
+   border: thin solid #6495ed;
+}
+td{
+    border: thin solid #000000
+}
+tbody {
+    background-color:#FFFFFF;
+    border:1px solid #6495ed;
+}
+th {
+    font-family:monospace;
+    border:1px dotted #6495ed;
+    padding:5px;
+    background-color:#EFF6FF;
+    width:25%;
+    }
+    caption {
+        background-color: gold;
+    }

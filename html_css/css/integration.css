@@ -1,0 +1,78 @@
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: #FAFAFA;
+    font: 12pt Tahoma;
+    border: greenyellow;
+  }
+.apple,{
+    float: left;
+    
+}
+.title{
+     float: top right;
+}
+header{
+    background-color: white;
+    border: black solid 2px;
+    width: 1000px;
+    height: 500px;
+}
+nav{
+    width: 1000px;
+    height: 50px;
+    background-color: yellowgreen;
+    border: yellowgreen 2px;  
+    
+
+}
+.Etape1{
+    float: left;
+    color: white;
+    border-right: 1px white;
+    padding-bottom: 1px;
+}
+.Etape2{
+    float: left;
+    color: white;
+    border-right: 1px white;
+    padding-bottom: 1px;
+}
+.Etape3{
+    float: left;
+    color: white;
+    border-right: 1px white;
+    padding-bottom: 1px;
+}
+.Etape4{
+    float: left;
+    color: white;
+    border-right: 1px white;
+    padding-bottom: 1px;
+}
+.Etape5{
+    float: left;
+    color: white;
+    border-right: 1px white;
+    padding-bottom: 1px;
+}
+
+section{
+    float: left;
+}
+
+
+.Etape1, .Etape2, .Etape3, .Etape4, .Etape5{
+    font-weight: bold;
+    margin: 3vh;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    
+}
+
+.Titre2{
+    background-color: #C8E956
+}
+.little_apple{
+    background-color: #C8E956
+}

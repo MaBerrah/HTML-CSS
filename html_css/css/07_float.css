@@ -1,0 +1,35 @@
+body{
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+div{
+    width: 90%;
+    margin: 0 auto;
+    background-color: lightsteelblue;
+}
+.boite{
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background: url(../img/2524647_0.png);
+    background-repeat: no-repeat;
+    border: 5px double yellow;
+    margin: 2vh;
+    float: left;
+     /* effet flottant, permet de placer les balises côte à côte que selon le flux du web standard les éléments se placent les uns au-dessus des autres*/
+     transition: margin 0.5s;
+}
+.boite:hover{
+    margin-top: 10vh;
+    /* vh = 1% de la hauteur de la fenêtre */ 
+}
+.clear{
+    clear:both;
+}
+p{
+    background-color: lightblue;
+}
+p span{/*sélectionne les spans contenus dans des p*/
+    background-color: yellow;
+}

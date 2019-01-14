@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+    width: 800px;
+    height: 800px;
+}
+
+header{
+    background-color:#FF5555;
+    width : 100%;
+    height:80px;
+    text-align: center;
+    color : white;
+    line-height: 8vh
+}
+
+footer{
+    background-color: #FFD700;
+    height:80px;
+    text-align: center;
+    color : white;
+    width: 80%;
+    margin: auto;
+    clear: both;
+}
+
+.A{
+    width: 10%;
+    height: 280px;
+    background-color: #5585FF;  
+    color : white;
+    float: left;
+}
+
+.B{
+    width: 10%;
+    height: 280px;
+    background-color: #5585FF;
+    color : white;
+    float: right;  
+}
+
+.Z15{
+    background-color:#55D87C;
+    color : white;
+    width: 50px;
+    height: 100px;
+    margin:auto;
+}
+
+section{
+    width: 100%;
+    height: 200px
+}
